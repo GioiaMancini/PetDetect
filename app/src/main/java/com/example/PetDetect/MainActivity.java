@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity {
         predict_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+            // try
                 try {
                     MobilenetV110224Quant model = MobilenetV110224Quant.newInstance(MainActivity.this);
 

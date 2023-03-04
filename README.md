@@ -5,7 +5,7 @@ This Android app allows the user to recognize each of his/her pets.
 
 The app involves the following features:
 * Select an image from local storage
-* Capture an image through camera
+* Capture an image through the camera
 * Identify generic objects in the selected/captured scene
 * Recognize the identity of a pet
 

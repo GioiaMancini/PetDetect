@@ -1,6 +1,8 @@
 # PetDetect - Android App to recognize your pet through AI :cat: :dog: :mag:
 Authors: Christian Brignone, Gioia Mancini
+
 (One day projects)
+
 
 This Android app allows the user to recognize each of his/her pets.
 
